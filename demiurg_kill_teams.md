@@ -36,21 +36,21 @@ Demiurg defense forces favor close-in weaponry useful in defending against board
 | **2** | **Short-tempered:** The members of this kill team will ignore minor slights, but can turn angry in an instant. |
 | **3** | **Doughty:** The members of this kill team will stand their ground even in the face of heavy fire or overwhelming odds. |
 | **4** | **Tenacious:** Nothing will prevent this kill team from accomplishing their mission. |
-| **5** | **Greedy:**  |
+| **5** | **Acquisitive:** Profit is the motive behind every action this kill team takes. |
 | **6** | **Inebriated:** As humans say, "I don't know much about squats, but they can hold their liquor, until they can't." |
 
 | D10 | SPEACIALISTS' DEMEANORS |
 | :---: | :--- |
-| **1** | **:**  |
-| **2** | **:**  |
-| **3** | **:**  |
-| **4** | **:**  |
-| **5** | **:**  |
-| **6** | **:**  |
-| **7** | **:**  |
-| **8** | **:**  |
-| **9** | **:**  |
-| **10** | **:**  |
+| **1** | **Dutiful:** A Trooper's or Hearthguard's lot is to follow orders. |
+| **2** | **Pragmatic:** This warrior will make hard choices in support of the mission or profit. |
+| **3** | **Precise:** *as the T'au Empire entry* |
+| **4** | **Hot-Blooded:** *as the T'au Empire entry* |
+| **5** | **Wise Veteran:** A warrior only survives by honoring his experience. |
+| **6** | **Unflappable:** *as the T'au Empire entry* |
+| **7** | **Perceptive:** *as the T'au Empire entry* |
+| **8** | **Dishonored:** This warrior has failed his League, Brotherhood, or Lodge. He may only redeem himself by successfully completing missions. |
+| **9** | **Expert:** *as the Astra Militarum entry* |
+| **10** | **Drunken:** "There's no harm in a bit of brew before a fight." |
 
 ## DEMIURG KILL TEAMS
 
