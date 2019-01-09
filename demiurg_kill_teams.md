@@ -17,29 +17,29 @@ Demiurg defense forces favor close-in weaponry useful in defending against board
 | **1** | **Strongholders:** This kill team includes members from a Stronghold-class commerce and manufacturing vessel and may include members from more than one Brotherhood. |
 | **2** | **Bastion Brotherhood:** This kill team includes members from a Bastion-class mining and manufacturing vessel who are all part of the same Brotherhood. |
 | **3** | **Asteroid Movers:** This kill team comprises members of the "crew" of an asteroid that the Demiurg have claimed for mining and are transporting to a buyer. |
-| **4** | **T'au Empire:** This kill team comprises members who were part of a wider T'au force. |
+| **4** | **Expedition:** This kill team is on an expedition for a Demiurg League Warlord. An expeditions is "the continuation of business by other means." |
 | **5** | **Guildsmen:** This kill team is under the, perhaps temporary, jurisdiction of the Engineering Guild. |
-| **6** | **Lodge Members:** This kill team includes members who are members of a specific Engineering Guild lodge and Brotherhood troopers and Hearthguard assigned to protect them. |
+| **6** | **T'au Empire:** This kill team comprises members who are or were part of a wider T'au force. |
 
 | D6 | MISSION: PROFIT|
 | :---: | :--- |
-| **1** | **Staking a Claim:** This kill team is claiming previously discovered resources for their Bortherhood to exploit. |
-| **2** | **Trading:**  |
-| **3** | **Survey:**  |
-| **4** | **Repair:**  |
-| **5** | **:**  |
-| **6** | **For the Greater Good:**  |
+| **1** | **Staking a Claim:** This kill team is claiming previously discovered resources for their Brotherhood to exploit. |
+| **2** | **Trading:** Demiurg society depends on trading raw materials and manufactured goods with other civilizations. The kill team will fight through great resistance to open negotiations with new tradking partners. |
+| **3** | **Survey:** The Brotherhood requires raw material to mine and to commit to manufacturing. The area must be surveyed for potential new claims. |
+| **4** | **Repair:** Mining and manufacturing require significant automation. With this much machinery, there is always something that must be repaired. |
+| **5** | **Technology Recovery:** The Demiurg are constantly on the lookout for new technology to copy and exploit. Anywhere there has been conlict is a good site to retrieve technology from other civilizations. |
+| **6** | **For the Greater Good:** Roll on the T'au Empire **Mission: Service to the Greater Good** table. |
 
-| D6 | SQUAD QUIRK:  |
+| D6 | SQUAD QUIRK: TEMPERAMENT |
 | :---: | :--- |
-| **1** | **:**  |
-| **2** | **:**  |
-| **3** | **:**  |
-| **4** | **:**  |
-| **5** | **:**  |
-| **6** | **:**  |
+| **1** | **Irascible:** Even the most minor of insults is enough for this kill team to draw weapons. Don't call them "squats". |
+| **2** | **Short-tempered:** The members of this kill team will ignore minor slights, but can turn angry in an instant. |
+| **3** | **Doughty:** The members of this kill team will stand their ground even in the face of heavy fire or overwhelming odds. |
+| **4** | **Tenacious:** Nothing will prevent this kill team from accomplishing their mission. |
+| **5** | **Greedy:**  |
+| **6** | **Inebriated:** As humans say, "I don't know much about squats, but they can hold their liquor, until they can't." |
 
-| D6 | SPEACIALISTS' DEMEANORS |
+| D10 | SPEACIALISTS' DEMEANORS |
 | :---: | :--- |
 | **1** | **:**  |
 | **2** | **:**  |
