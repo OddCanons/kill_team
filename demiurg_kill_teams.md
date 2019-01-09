@@ -12,25 +12,25 @@ Much of Demiurg technology has developed in support of deep-space mining and man
 
 Demiurg defense forces favor close-in weaponry useful in defending against boarding actions or fighting in mines or cramped factory spaces. Their elite Hearthguard units are known for using exo armour that is almost the match for the power armour worn by Space Marines.
 
-| D6 | BACKGROUND:  |
+| D6 | BACKGROUND: BROTHERHOOD |
 | :---: | :--- |
-| **1** | **:**  |
-| **2** | **:**  |
-| **3** | **:**  |
-| **4** | **:**  |
-| **5** | **:**  |
-| **6** | **:**  |
+| **1** | **Strongholders:** This kill team includes members from a Stronghold-class commerce and manufacturing vessel and may include members from more than one Brotherhood. |
+| **2** | **Bastion Brotherhood:** This kill team includes members from a Bastion-class mining and manufacturing vessel who are all part of the same Brotherhood. |
+| **3** | **Asteroid Movers:** This kill team comprises members of the "crew" of an asteroid that the Demiurg have claimed for mining and are transporting to a buyer. |
+| **4** | **T'au Empire:** This kill team comprises members who were part of a wider T'au force. |
+| **5** | **Guildsmen:** This kill team is under the, perhaps temporary, jurisdiction of the Engineering Guild. |
+| **6** | **Lodge Members:** This kill team includes members who are members of a specific Engineering Guild lodge and Brotherhood troopers and Hearthguard assigned to protect them. |
 
 | D6 | MISSION: PROFIT|
 | :---: | :--- |
-| **1** | **Staking a Claim:**  |
-| **2** | **Trading:** |
-| **3** | **:**  |
-| **4** | **:**  |
+| **1** | **Staking a Claim:** This kill team is claiming previously discovered resources for their Bortherhood to exploit. |
+| **2** | **Trading:**  |
+| **3** | **Survey:**  |
+| **4** | **Repair:**  |
 | **5** | **:**  |
-| **6** | **:**  |
+| **6** | **For the Greater Good:**  |
 
-| D6 | SQUAD QUIRK: BROTHERHOOD |
+| D6 | SQUAD QUIRK:  |
 | :---: | :--- |
 | **1** | **:**  |
 | **2** | **:**  |
@@ -676,13 +676,13 @@ SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Dem
 
 ## DESIGN NOTES
 
-This take on Demiurg kill teams leans heavily on the "Squats Army List" section, reprinted from White Dwarf in the 1989 *Warhammer 40,000 Compendium*. With their slow speed and tough, armour, and leadership advantages, I tried to position the base demiurg troooper models between Astra Militarum guardsmen and Adeptus Astartes Tactical Marines, worse than Scouts, but on par with Scions. Those numbers were relatively easy to pick, given the narrow range. Equipment was harder. The original exo armour was more like terminator armour and you could add power fields to that. That would not fit well with the scale of Kill Team.
+This take on Demiurg kill teams leans heavily on the "Squats Army List" section, reprinted from White Dwarf in the 1989 *Warhammer 40,000 Compendium*. With their slow speed and tough, armour, and leadership advantages, I tried to position the base demiurg troooper models between Astra Militarum guardsmen and Adeptus Astartes Tactical Marines, worse than Scouts, but on par with Scions. Those numbers were relatively easy to pick, given the narrow ranges. Equipment was harder. The original exo armour was more like terminator armour and you could add power fields to that. That would not fit well with the scale of Kill Team.
 
-Giving the base models power axes and some kind of pistol based on the volley gun bit also creates some costing challenges. The original Compendium troopers had las guns and were basically an Imperial Guard squad. I have played with different versions of the pistols and cannon, starting with two mode "ion volley" weapons. I went with rules more in the area of hot-shot lasers and scatter lasers, based on the design and not wanting a base trooper weapon that is too complicated or over powered. The other weapons are either the existing Kill Team weapon that most looks like it, a T'au weapon, or mining equipment, like the Genestealer Cults.
+Giving the base models power axes and some kind of pistol based on the volley gun bit also creates some costing challenges. The original Compendium troopers had las guns and were basically an Imperial Guard squad. I have played with different versions of the pistols and cannon, starting with two mode "ion volley" weapons. I went with rules more in the area of hot-shot lasers and scatter lasers, based on the bit design and not wanting a base trooper weapon that is too complicated or over powered. The other weapons are either the existing Kill Team weapon that most looks like them, a T'au weapon, or mining equipment, like the Genestealer Cults.
 
 The Living Ancestor is based heavily on the description from the Compendium. In particular, his lack of *Smite* as a power is based on the buff-oriented nature of the powers available to the original. The Librarius powers already had a couple that fit the profile. Cure Wounds is a power from *Rogue Trader*. The power is designed to work like existing powers and does just enough to honor the name. In other small changes, necessary to fit into the Kill Team scale, you can field this Guildmaster without Brotherhood bikers and I chose the title of Warden as an appropriate replacement for Warlord.
 
-The points values have *not* been thoroughly vetted although they are in the ballpark for comparable models and weapons from the rule books. The Living Ancestor is the hardest to value, because the model lacks Smite and almost all of the other Psykers are commanders with other significant abilities. The Living Ancestor's cost is likely too high here, but the chance to deny is big as are the buffs. In 100-point matched play games, the Demiurg seem to be about on level, except for the dearth of long-ranged weaponry, considering their slow moves. Experiments to try are lowering the points slightly to field another trooper or giving the pistols more reach (e.g. 18"). Fielding both allowed volley cannons or the volley cannon and cutting beam together is another option within the existing version.
+The points values have *not* been thoroughly vetted although they are in the ballpark for comparable models and weapons from the official rule books. The Living Ancestor is the hardest to value, because the model lacks Smite and almost all of the other Psykers are commanders with other significant abilities. The Living Ancestor's cost is likely too high here, but the chance to deny is big as are the buff powers. In 100-point matched play games, the Demiurg seem to be about on level, except for the dearth of long-ranged weaponry, considering their slow moves. Experiments to try are lowering the points slightly to field another trooper or giving the pistols more reach (e.g. 18"). Fielding both allowed volley cannons or the volley cannon and cutting beam together is another option within the existing version. The two commander option point values are guesses based on commanders with roughly comparable stats and abilities.
 
 ## MODELING DEMIURG KILL TEAMS
 
