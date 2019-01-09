@@ -56,24 +56,24 @@ Demiurg defense forces favor close-in weaponry useful in defending against board
 
 **If every model in your kill team has the *Demiurg* Faction keyword, you can use Demiurg Tactics.**
 
-| TACTIC | |
+| DOUGHTY RESOLVE | |
 | :--- | ---:
-| **Demiurg Tactic** <br/> Description | |
+| **Demiurg Tactic** <br/> Use this Tactic at the start of your turn in the Morale phase. Pick a model from your kill team that is required to take a Nerve test. Roll a D3 for that model rather than a D6 when taking the test. | |
 | | 1 CP |
 
-| TACTIC | |
+| HONOUR THE BROTHERHOOD | |
 | :--- | ---:
-| **Demiurg Tactic** <br/> Description | |
+| **Demiurg Tactic** <br/> Use this Tactic at the end of the Fight phase. Pick a model from your kill team. That model can immediately fight an additional time. | |
+| | 2 CP |
+
+| TOUGH EGG | |
+| :--- | ---:
+| **Demiurg Tactic** <br/> Use this tactic when a *Hearthguard* model from your kill team suffers a mortal wound. Roll a D6 for that mortal wound, and for each other mortal wound suffered by that model for the rest of the phase; on a 5+ the mortal wound is ignored and has no effect. | |
 | | 1 CP |
 
-| TACTIC | |
+| TUNNEL FIGHTERS | |
 | :--- | ---:
-| **Demiurg Tactic** <br/> Description | |
-| | 1 CP |
-
-| TACTIC | |
-| :--- | ---:
-| **Demiurg Tactic** <br/> Description | |
+| **Demiurg Tactic** <br/> Use this Tactic in your opponent's turn in the Shooting phase whey they choose a model from your kill team as a target, and your model is obscured. Attacks that target that model in this phase sufffer an additional -1 penalty to their hit rolls. | |
 | | 1 CP |
 
 <table>
