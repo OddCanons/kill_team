@@ -12,7 +12,25 @@ Much of Demiurg technology has developed in support of deep-space mining and man
 
 Demiurg defense forces favor close-in weaponry useful in defending against boarding actions or fighting in mines or cramped factory spaces. Their elite Hearthguard units are known for using exo armour that is almost the match for the power armour worn by Space Marines.
 
-| D6 | BACKGROUND: |
+| D6 | BACKGROUND:  |
+| :---: | :--- |
+| **1** | ** |
+| **2** |   |
+| **3** | ** |
+| **4** |  |
+| **5** |  |
+| **6** |  |
+
+| D6 | MISSION: PROFIT|
+| :---: | :--- |
+| **1** | **Staking a Claim:**  |
+| **2** | **Trading:** |
+| **3** |  |
+| **4** |  |
+| **5** |  |
+| **6** |  |
+
+| D6 | SQUAD QUIRK: BROTHERHOOD |
 | :---: | :--- |
 | **1** |  |
 | **2** |  |
@@ -21,25 +39,7 @@ Demiurg defense forces favor close-in weaponry useful in defending against board
 | **5** |  |
 | **6** |  |
 
-| D6 | MISSION: |
-| :---: | :--- |
-| **1** |  |
-| **2** |  |
-| **3** |  |
-| **4** |  |
-| **5** |  |
-| **6** |  |
-
-| D6 | SQUAD QUIRK: |
-| :---: | :--- |
-| **1** |  |
-| **2** |  |
-| **3** |  |
-| **4** |  |
-| **5** |  |
-| **6** |  |
-
-| D6 | SPEACIALISTS' DEMEANORS: |
+| D6 | SPEACIALISTS' DEMEANORS |
 | :---: | :--- |
 | **1** |  |
 | **2** |  |
@@ -58,7 +58,22 @@ Demiurg defense forces favor close-in weaponry useful in defending against board
 
 | TACTIC | |
 | :--- | ---:
-| Description | |
+| **Demiurg Tactic** <br/> Description | |
+| | 1 CP |
+
+| TACTIC | |
+| :--- | ---:
+| **Demiurg Tactic** <br/> Description | |
+| | 1 CP |
+
+| TACTIC | |
+| :--- | ---:
+| **Demiurg Tactic** <br/> Description | |
+| | 1 CP |
+
+| TACTIC | |
+| :--- | ---:
+| **Demiurg Tactic** <br/> Description | |
 | | 1 CP |
 
 <table>
@@ -312,7 +327,7 @@ To generate psychic powers from the Ancestral discipline, you can either roll a 
 
 #### Med-injector
 
-
+If a model from your kill team loses a wound and the model with the med-injector is within 6", foll a D6 for that wound and each other wound lost by that model for the rest of the phase. On a 5+ that wound is not lost.
 
 ### KILL TEAM POINTS COST
 
@@ -343,19 +358,14 @@ To generate psychic powers from the Ancestral discipline, you can either roll a 
 | Power&nbsp;cutter | 0 |
 | Power&nbsp;hammer | 0 |
 | Power&nbsp;sword | 0 |
-| Warschythe |  |
 
 | OTHER WARGEAR | POINTS PER ITEM |
 | :--- | :---: |
 | Med-injector | 0 |
 
 ## HEARTHGUARD WARDEN
-											
-WARGEAR OPTIONS											
-ABILITIES											
-SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Demolitions										
-FACTION KEYWORD	Demiurg, T’au Empire										
-KEYWORDS	Brotherhood, Hearthguard, Infantry										
+																						
+SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Demolitions									
 
 <table>
     <tr>
@@ -510,16 +520,159 @@ KEYWORDS	Brotherhood, Hearthguard, Infantry
 </table>
 
 ## ENGINEER GUILDMASTER
-
-ENGINEER GUILDMASTER											
-NAME	M	WS	BS	S	T	W	A	Ld	Sv	Max	
-Guildmaster	5”	3+	4+	3	4	1	1	7	3+	-	
-											
-WARGEAR OPTIONS											
-ABILITIES											
+										
 SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Demolitions										
-FACTION KEYWORD	Demiurg, T’au Empire										
-KEYWORDS	Brotherhood, Hearthguard, Infantry										
+<table>
+    <tr>
+        <th colspan="12">HEARTHGUARD WARDEN</th>
+    </tr>
+    <tr style="font-weight:bold">
+        <td>NAME</td>
+        <td>M</td>
+        <td>WS</td>
+        <td>BS</td>
+        <td>S</td>
+        <td>T</td>
+        <td>W</td>
+        <td>A</td>
+        <td>Ld</td>
+        <td>Sv</td>
+        <td>Max</td>
+        <td></td>
+    </tr>
+    <tr style="font-weight:bold">
+        <td>Hearthguard Warden</td>
+        <td>5"</td>
+        <td>3+</td>
+        <td>4+</td>
+        <td>3</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>8</td>
+        <td>4+</td>
+        <td>1</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="12" style="white-space:pre-wrap; word-wrap:break-word">This model is armed with a volley pistol and power hammer.
+        </td>
+    </tr>
+    <tr style="font-weight:bold">
+        <td>WEAPON</td>
+        <td colspan="2">RANGE</td>
+        <td colspan="2">TYPE</td>
+        <td>S</td>
+        <td>AP</td>
+        <td>D</td>
+        <td colspan="4">ABILITIES</td>
+    </tr>
+    <tr>
+        <td>Fusion&nbsp;pistol</td>
+        <td colspan="2">6"</td>
+        <td colspan="2">Pistol&nbsp;1</td>
+        <td>8</td>
+        <td>-4</td>
+        <td>D6</td>
+        <td colspan="4">If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.</td>
+    </tr>
+    <tr>
+        <td>Plasma&nbsp;flamer</td>
+        <td colspan="2">6"</td>
+        <td colspan="2">Pistol&nbsp;D3</td>
+        <td>6</td>
+        <td>-2</td>
+        <td>1</td>
+        <td colspan="4">This weapon automatically hits.</td>
+    </tr>
+    <tr>
+        <td>Power&nbsp;axe</td>
+        <td colspan="2">Melee</td>
+        <td colspan="2">Melee</td>
+        <td>+1</td>
+        <td>-2</td>
+        <td>1</td>
+        <td colspan="4">-</td>
+    </tr>
+    <tr>
+        <td>Power&nbsp;cutter</td>
+        <td colspan="2">Melee</td>
+        <td colspan="2">Melee</td>
+        <td>User</td>
+        <td>-2</td>
+        <td>D3</td>
+        <td colspan="4">-</td>
+    </tr>
+    <tr>
+        <td>Power&nbsp;hammer</td>
+        <td colspan="2">Melee</td>
+        <td colspan="2">Melee</td>
+        <td>x2</td>
+        <td>-3</td>
+        <td>3</td>
+        <td colspan="4">When attacking with this weapon, you must subtract one from the hit roll.</td>
+    </tr>
+    <tr>
+        <td>Power&nbsp;sword</td>
+        <td colspan="2">Melee</td>
+        <td colspan="2">Melee</td>
+        <td>User</td>
+        <td>-3</td>
+        <td>1</td>
+        <td colspan="4">-</td>
+    </tr>
+    <tr>
+        <td>Volley&nbsp;pistol</td>
+        <td colspan="2">12"</td>
+        <td colspan="2">Pistol&nbsp;2</td>
+        <td>4</td>
+        <td>-1</td>
+        <td>1</td>
+        <td colspan="4">-</td>
+    </tr>
+    <tr>
+        <td>Warscythe</td>
+        <td colspan="2">Melee</td>
+        <td colspan="2">Melee</td>
+        <td>+2</td>
+        <td>-4</td>
+        <td>2</td>
+        <td colspan="4">-</td>
+    </tr>
+    <tr>
+        <td style="font-weight:bold">WARGEAR OPTIONS</td>
+        <td colspan="11">
+            <ul>
+                <li>The model may replace its volley pistol with a fusion pistol or plasma flamer.</li>
+                <li>The model may replace its power hammer with a power axe, power cutter, or warscythe.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight:bold">ABILITIES</td>
+        <td colspan="11">
+        <span style="font-weight:bold">Suspensors</span>: This model does not suffer the to-hit penalty for firing a heavy weapon after moving.
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight:bold">SPECIALISTS</td>
+        <td colspan="11">
+            <span style="font-weight:bold">Leader</span> (Hearthguard Officer only), <span style="font-weight:bold">Heavy</span> (Hearthguard Gunner only), <span style="font-weight:bold">Combat</span>, <span style="font-weight:bold">Veteran</span>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight:bold">FACTION KEYWORDS</td>
+        <td colspan="11" style="font-weight:bold">
+            Demiurg, T’au Empire
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight:bold">KEYWORDS</td>
+        <td colspan="11" style="font-weight:bold">
+            Brotherhood, Commander, Hearthguard, Infantry
+        </td>
+    </tr>
+</table>
 
 ## DESIGN NOTES
 
