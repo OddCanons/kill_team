@@ -59,22 +59,22 @@ Demiurg defense forces favor close-in weaponry useful in defending against board
 | DOUGHTY RESOLVE | |
 | :--- | ---:
 | **Demiurg Tactic** <br/> Use this Tactic at the start of your turn in the Morale phase. Pick a model from your kill team that is required to take a Nerve test. Roll a D3 for that model rather than a D6 when taking the test. | |
-| | 1 CP |
+| | 1&nbsp;CP |
 
 | HONOUR THE BROTHERHOOD | |
 | :--- | ---:
 | **Demiurg Tactic** <br/> Use this Tactic at the end of the Fight phase. Pick a model from your kill team. That model can immediately fight an additional time. | |
-| | 2 CP |
+| | 2&nbsp;CP |
 
 | TOUGH EGG | |
 | :--- | ---:
-| **Demiurg Tactic** <br/> Use this tactic when a *Hearthguard* model from your kill team suffers a mortal wound. Roll a D6 for that mortal wound, and for each other mortal wound suffered by that model for the rest of the phase; on a 5+ the mortal wound is ignored and has no effect. | |
-| | 1 CP |
+| **Demiurg Tactic** <br/> Use this tactic when a ***Hearthguard*** model from your kill team suffers a mortal wound. Roll a D6 for that mortal wound, and for each other mortal wound suffered by that model for the rest of the phase; on a 5+ the mortal wound is ignored and has no effect. | |
+| | 1&nbsp;CP |
 
 | TUNNEL FIGHTERS | |
 | :--- | ---:
 | **Demiurg Tactic** <br/> Use this Tactic in your opponent's turn in the Shooting phase whey they choose a model from your kill team as a target, and your model is obscured. Attacks that target that model in this phase sufffer an additional -1 penalty to their hit rolls. | |
-| | 1 CP |
+| | 1&nbsp;CP |
 
 <table>
     <tr>
@@ -132,7 +132,7 @@ Demiurg defense forces favor close-in weaponry useful in defending against board
         <td>2</td>
         <td>1</td>
         <td>8</td>
-        <td>5+</td>
+        <td>4+</td>
         <td>1</td>
         <td></td>
     </tr>
@@ -147,7 +147,7 @@ Demiurg defense forces favor close-in weaponry useful in defending against board
         <td>2</td>
         <td>7</td>
         <td>4+</td>
-        <td>-</td>
+        <td>1</td>
         <td></td>
     </tr>
     <tr>
@@ -189,6 +189,16 @@ One Trooper in your kill team can be a Trooper Gunner, one Trooper in your kill 
         </td>
     </tr>
 </table>
+
+### ANCESTRAL DISCIPLINE
+
+To generate psychic powers from the Ancestral discipline, you can either roll a D3 to generate them randomly (re-roll any duplicate results), or you can select those you wish the psyker to have. Do so before each battle.
+
+| **D3** | **RESULT** |
+| :---: | :--- |
+| **1** | **Veil of Time** functions as the Librarius discipline power of the same name. |
+| **2** | **Might of Heroes** functions as the Librarius discipline power of the same name.
+| **3** | **Cure Wounds** has a warp charge value of 9. If manifested, pick a friendly model within 6” of the psyker. If that model has flesh wounds, remove up to two of the flesh wounds from that model. Otherwise, that model regains two wounds, up to a maximum of their starting Wounds score. |
 
 <table>
     <tr>
@@ -258,6 +268,7 @@ One Hearthguard in your kill team can be a Hearthguard Gunner and one Hearthguar
         <td style="font-weight:bold">WARGEAR OPTIONS</td>
         <td colspan="11">
             <ul>
+                <li>A Hearthguard may replace their power hammer with a power axe.</li>
                 <li>A Hearthguard Gunner may replace their volley pistol and power hammer with an ion volley cannon and power cutter.</li>
                 <li>A Hearthguard Officer may replace their volley pistol with a fusion pistol or plasma flamer.</li>
                 <li>A Hearthguard Officer may replace their power hammer with a power axe or power cutter.</li>
@@ -290,16 +301,6 @@ One Hearthguard in your kill team can be a Hearthguard Gunner and one Hearthguar
     </tr>
 </table>
 
-### ANCESTRAL DISCIPLINE
-
-To generate psychic powers from the Ancestral discipline, you can either roll a D3 to generate them randomly (re-roll any duplicate results), or you can select those you wish the psyker to have. Do so before each battle.
-
-| **D3** | **RESULT** |
-| :---: | :--- |
-| **1** | **Veil of Time** functions as the Librarius discipline power of the same name. |
-| **2** | **Might of Heroes** functions as the Librarius discipline power of the same name.
-| **3** | **Cure Wounds** has a warp charge value of 9. If manifested, pick a friendly model within 6” of the psyker. If that model has flesh wounds, remove up to two of the flesh wounds from that model. Otherwise, that model regains two wounds, up to a maximum of their starting Wounds score. |
-
 ### RANGED WEAPONS
 
 | WEAPON | RANGE | TYPE | S | AP | D | ABILIITIES |
@@ -327,7 +328,7 @@ To generate psychic powers from the Ancestral discipline, you can either roll a 
 
 #### Med-injector
 
-If a model from your kill team loses a wound and the model with the med-injector is within 6", foll a D6 for that wound and each other wound lost by that model for the rest of the phase. On a 5+ that wound is not lost.
+If a model from your kill team loses a wound and the model with the med-injector is within 3", foll a D6 for that wound and each other wound lost by that model for the rest of the phase. On a 6+ that wound is not lost.
 
 ### KILL TEAM POINTS COST
 
@@ -335,7 +336,7 @@ If a model from your kill team loses a wound and the model with the med-injector
 | :--- | :---: |
 | Brotherhood&nbsp;Trooper | 9 |
 | -&nbsp;Trooper&nbsp;Gunner | 10 |
-| -&nbsp;Living&nbsp;Ancestor | 42 |
+| -&nbsp;Living&nbsp;Ancestor | 30 |
 | -&nbsp;Squad&nbsp;Leader | 10 |
 | Hearthguard | 10 |
 | -&nbsp;Hearthguard&nbsp;Gunner | 11 |
@@ -364,8 +365,6 @@ If a model from your kill team loses a wound and the model with the med-injector
 | Med-injector | 0 |
 
 ## HEARTHGUARD WARDEN
-																						
-SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Demolitions									
 
 <table>
     <tr>
@@ -386,7 +385,7 @@ SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Dem
         <td></td>
     </tr>
     <tr style="font-weight:bold">
-        <td>Hearthguard Warden</td>
+        <td>Hearthguard&nbsp;Warden</td>
         <td>5"</td>
         <td>3+</td>
         <td>3+</td>
@@ -496,13 +495,14 @@ SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Dem
     <tr>
         <td style="font-weight:bold">ABILITIES</td>
         <td colspan="11">
-        <span style="font-weight:bold">Suspensors</span>: This model does not suffer the to-hit penalty for firing a heavy weapon after moving.
+        <span style="font-weight:bold">Conversion field</span>: A Hearthguard Warden has a 5+ invulnerable save. The firts roll of 5 or 6 on *any* save by this model in a Round causes *all attacks* targeting him to be at -1 for the rest of the Round.
         </td>
     </tr>
     <tr>
         <td style="font-weight:bold">SPECIALISTS</td>
         <td colspan="11">
-            <span style="font-weight:bold">Leader</span> (Hearthguard Officer only), <span style="font-weight:bold">Heavy</span> (Hearthguard Gunner only), <span style="font-weight:bold">Combat</span>, <span style="font-weight:bold">Veteran</span>
+            <span style="font-weight:bold">Fortitude</span>, <span style="font-weight:bold">Leadership</span>,
+            <span style="font-weight:bold">Logistics</span>, <span style="font-weight:bold">Melee</span>
         </td>
     </tr>
     <tr>
@@ -519,12 +519,32 @@ SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Dem
     </tr>
 </table>
 
+| TACTIC | |
+| :--- | ---:
+| **Demiurg Hearthguard Warden Tactic** <br/>  | |
+| | 1&nbsp;CP |
+
+| GIFTS OF THE WARLORD | |
+| :--- | ---:
+| **Demiurg Hearthguard Warden Tactic** <br/> U | |
+| | 1&nbsp;CP |
+
+| DEMIURG MODEL | POINTS PER MODEL |
+| :--- | :---: |
+| Hearthguard Warden (Level 1) | 30 |
+| Hearthguard Warden (Level 2) | 35 |
+| Hearthguard Warden (Level 3) | 50 |
+| Hearthguard Warden (Level 4) | 70 |
+
+| DEMIURG MELEE WEAPON | POINTS PER WEAPON |
+| :--- | :---: |
+| Warscythe | 0 |
+
 ## ENGINEER GUILDMASTER
-										
-SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Demolitions										
+	
 <table>
     <tr>
-        <th colspan="12">HEARTHGUARD WARDEN</th>
+        <th colspan="12">ENGINEER GUILDMASTER</th>
     </tr>
     <tr style="font-weight:bold">
         <td>NAME</td>
@@ -541,21 +561,21 @@ SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Dem
         <td></td>
     </tr>
     <tr style="font-weight:bold">
-        <td>Hearthguard Warden</td>
+        <td>Engineer&nbsp;Guildmaster</td>
         <td>5"</td>
         <td>3+</td>
         <td>4+</td>
         <td>3</td>
         <td>4</td>
         <td>2</td>
-        <td>1</td>
+        <td>2</td>
         <td>8</td>
         <td>4+</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
-        <td colspan="12" style="white-space:pre-wrap; word-wrap:break-word">This model is armed with a volley pistol and power hammer.
+        <td colspan="12" style="white-space:pre-wrap; word-wrap:break-word">This model is equipped with a  and a .
         </td>
     </tr>
     <tr style="font-weight:bold">
@@ -674,9 +694,25 @@ SPECIALISTS	Leader (Squad Leader only), Heavy (Trooper Gunner only), Combat, Dem
     </tr>
 </table>
 
+| TACTIC | |
+| :--- | ---:
+| **Demiurg Engineer Guildmaster Tactic** <br/> U | |
+| | 1&nbsp;CP |
+
+| DEMIURG MODEL | POINTS PER MODEL |
+| :--- | :---: |
+| Engineer Guildmaster (Level 1) |  |
+| Engineer Guildmaster (Level 2) |  |
+| Engineer Guildmaster (Level 3) |  |
+| Engineer Guildmaster (Level 4) |  |
+
+| DEMIURG WARGEAR | POINTS PER ITEM |
+| :--- | :---: |
+|  |  |
+
 ## DESIGN NOTES
 
-This take on Demiurg kill teams leans heavily on the "Squats Army List" section, reprinted from White Dwarf in the 1989 *Warhammer 40,000 Compendium*. With their slow speed and tough, armour, and leadership advantages, I tried to position the base demiurg troooper models between Astra Militarum guardsmen and Adeptus Astartes Tactical Marines, worse than Scouts, but on par with Scions. Those numbers were relatively easy to pick, given the narrow ranges. Equipment was harder. The original exo armour was more like terminator armour and you could add power fields to that. That would not fit well with the scale of Kill Team.
+This take on Demiurg kill teams leans heavily on the "Squats Army List" section, reprinted from White Dwarf in the 1989 *Warhammer 40,000 Compendium*. With their slow speed and tough, armour, and leadership advantages, I tried to position the base demiurg troooper models between Astra Militarum guardsmen and Adeptus Astartes Tactical Marines, worse than Scouts, but on par with Scions. Those numbers were relatively easy to pick, given the narrow ranges. Equipment was harder. The original exo armour was more like terminator armour and you could add power fields to that. That would not fit well with the scale of Kill Team. The Tough Egg tactic gives back a bit of the survivability.
 
 Giving the base models power axes and some kind of pistol based on the volley gun bit also creates some costing challenges. The original Compendium troopers had las guns and were basically an Imperial Guard squad. I have played with different versions of the pistols and cannon, starting with two mode "ion volley" weapons. I went with rules more in the area of hot-shot lasers and scatter lasers, based on the bit design and not wanting a base trooper weapon that is too complicated or over powered. The other weapons are either the existing Kill Team weapon that most looks like them, a T'au weapon, or mining equipment, like the Genestealer Cults.
 
