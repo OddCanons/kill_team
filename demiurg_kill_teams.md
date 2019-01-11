@@ -495,7 +495,7 @@ If a model from your kill team loses a wound and the model with the med-injector
     <tr>
         <td style="font-weight:bold">ABILITIES</td>
         <td colspan="11">
-        <span style="font-weight:bold">Conversion field</span>: A Hearthguard Warden has a 5+ invulnerable save. The firts roll of 5 or 6 on *any* save by this model in a Round causes *all attacks* targeting him to be at -1 for the rest of the Round.
+        <span style="font-weight:bold">Conversion field</span>: A Hearthguard Warden has a 5+ invulnerable save. The first roll of 5 or 6 on *any* save by this model in a Round causes *all attacks* targeting him to be at -1 for the rest of the Round.
         </td>
     </tr>
     <tr>
@@ -519,14 +519,14 @@ If a model from your kill team loses a wound and the model with the med-injector
     </tr>
 </table>
 
-| TACTIC | |
+| DOUGHTY RESOLVE| |
 | :--- | ---:
-| **Demiurg Hearthguard Warden Tactic** <br/>  | |
+| **Demiurg Hearthguard Warden Tactic** <br/> Use this tactic at the start of the Movement phase if your kill team includes a **Hearthguard Warden**. That model gains the following aura until the end of the battle round:<br/><br/>As long as this model is not shaken, friendly models within 6" of this model can use this model's Leadership characteristic instead of their own, and automatically pass Nerve tests. | |
 | | 1&nbsp;CP |
 
 | GIFTS OF THE WARLORD | |
 | :--- | ---:
-| **Demiurg Hearthguard Warden Tactic** <br/> U | |
+| **Demiurg Hearthguard Warden Tactic** <br/> Use this tactic at the start of the Shooting phase if your kill team includes a **Hearthguard Warden**. That model gains the following aura ability until the end of the battle round:<br/><br/>As long as this model is not shaken, you can re-roll save rolls of 1 for friendly models within 6" of this model. | |
 | | 1&nbsp;CP |
 
 | DEMIURG MODEL | POINTS PER MODEL |
@@ -575,7 +575,7 @@ If a model from your kill team loses a wound and the model with the med-injector
         <td></td>
     </tr>
     <tr>
-        <td colspan="12" style="white-space:pre-wrap; word-wrap:break-word">This model is equipped with a  and a .
+        <td colspan="12" style="white-space:pre-wrap; word-wrap:break-word">This model is equipped with an energy scanner and a .
         </td>
     </tr>
     <tr style="font-weight:bold">
@@ -701,10 +701,10 @@ If a model from your kill team loses a wound and the model with the med-injector
 
 | DEMIURG MODEL | POINTS PER MODEL |
 | :--- | :---: |
-| Engineer Guildmaster (Level 1) |  |
-| Engineer Guildmaster (Level 2) |  |
-| Engineer Guildmaster (Level 3) |  |
-| Engineer Guildmaster (Level 4) |  |
+| Engineer Guildmaster (Level 1) | 20 |
+| Engineer Guildmaster (Level 2) | 25 |
+| Engineer Guildmaster (Level 3) | 40 |
+| Engineer Guildmaster (Level 4) | 60 |
 
 | DEMIURG WARGEAR | POINTS PER ITEM |
 | :--- | :---: |
