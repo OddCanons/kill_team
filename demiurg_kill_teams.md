@@ -575,7 +575,7 @@ If a model from your kill team loses a wound and the model with the med-injector
         <td></td>
     </tr>
     <tr>
-        <td colspan="12" style="white-space:pre-wrap; word-wrap:break-word">This model is equipped with an energy scanner and a .
+        <td colspan="12" style="white-space:pre-wrap; word-wrap:break-word">This model is equipped with an energy scanner and a nephostron.
         </td>
     </tr>
     <tr style="font-weight:bold">
@@ -597,6 +597,28 @@ If a model from your kill team loses a wound and the model with the med-injector
         <td colspan="4">If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.</td>
     </tr>
     <tr>
+        <td>Nephostron</td>
+        <td colspan="11">When attacking with this weapon, choose one of the profiles below.</td>
+    </tr>
+    <tr>
+        <td>-&nbsp;Standard</td>
+        <td colspan="2">30"</td>
+        <td colspan="2">Heavy&nbsp;1</td>
+        <td>7</td>
+        <td>-1</td>
+        <td>2</td>
+        <td colspan="4">This weapon automatically hits a target within 3".</td>
+    </tr>
+    <tr>
+        <td>-&nbsp;Overcharge</td>
+        <td colspan="2">30"</td>
+        <td colspan="2">Heavy&nbsp;D3</td>
+        <td>8</td>
+        <td>-2</td>
+        <td>2</td>
+        <td colspan="4">If you make one or more unmodified hit rolls of 1, the bearer suffers a mortal wound after all of this weapon's shots have been resolved. This weapon automatically hits a target within 3" with all shots, but you must still make the hit rolls to check for unmodified 1s that would cause the bearer a mortal wound.</td>
+    </tr>
+    <tr>
         <td>Plasma&nbsp;flamer</td>
         <td colspan="2">6"</td>
         <td colspan="2">Pistol&nbsp;D3</td>
@@ -606,40 +628,26 @@ If a model from your kill team loses a wound and the model with the med-injector
         <td colspan="4">This weapon automatically hits.</td>
     </tr>
     <tr>
-        <td>Power&nbsp;axe</td>
-        <td colspan="2">Melee</td>
-        <td colspan="2">Melee</td>
-        <td>+1</td>
-        <td>-2</td>
-        <td>1</td>
-        <td colspan="4">-</td>
+        <td>Plasma&nbsp;pistol</td>
+        <td colspan="11">When attacking with this weapon, choose one of the profiles below.</td>
     </tr>
     <tr>
-        <td>Power&nbsp;cutter</td>
-        <td colspan="2">Melee</td>
-        <td colspan="2">Melee</td>
-        <td>User</td>
-        <td>-2</td>
-        <td>D3</td>
-        <td colspan="4">-</td>
-    </tr>
-    <tr>
-        <td>Power&nbsp;hammer</td>
-        <td colspan="2">Melee</td>
-        <td colspan="2">Melee</td>
-        <td>x2</td>
-        <td>-3</td>
-        <td>3</td>
-        <td colspan="4">When attacking with this weapon, you must subtract one from the hit roll.</td>
-    </tr>
-    <tr>
-        <td>Power&nbsp;sword</td>
-        <td colspan="2">Melee</td>
-        <td colspan="2">Melee</td>
-        <td>User</td>
+        <td>-&nbsp;Standard</td>
+        <td colspan="2">12"</td>
+        <td colspan="2">Pistol&nbsp;1</td>
+        <td>7</td>
         <td>-3</td>
         <td>1</td>
         <td colspan="4">-</td>
+    </tr>
+    <tr>
+        <td>-&nbsp;Supercharge</td>
+        <td colspan="2">12"</td>
+        <td colspan="2">Pistol&nbsp;1</td>
+        <td>8</td>
+        <td>-3</td>
+        <td>2</td>
+        <td colspan="4">On an unmodified hit roll of 1, the bearer is taken out of action.</td>
     </tr>
     <tr>
         <td>Volley&nbsp;pistol</td>
@@ -651,33 +659,25 @@ If a model from your kill team loses a wound and the model with the med-injector
         <td colspan="4">-</td>
     </tr>
     <tr>
-        <td>Warscythe</td>
-        <td colspan="2">Melee</td>
-        <td colspan="2">Melee</td>
-        <td>+2</td>
-        <td>-4</td>
-        <td>2</td>
-        <td colspan="4">-</td>
-    </tr>
-    <tr>
         <td style="font-weight:bold">WARGEAR OPTIONS</td>
         <td colspan="11">
             <ul>
-                <li>The model may replace its volley pistol with a fusion pistol or plasma flamer.</li>
-                <li>The model may replace its power hammer with a power axe, power cutter, or warscythe.</li>
+                <li>The model may replace its nephostron with a fusion pistol, plasma flamer, plasma pistol, or volley pistol.</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td style="font-weight:bold">ABILITIES</td>
         <td colspan="11">
-        <span style="font-weight:bold">Suspensors</span>: This model does not suffer the to-hit penalty for firing a heavy weapon after moving.
+        <span style="font-weight:bold">Suspensors</span>: This model does not suffer the to-hit penalty for firing a heavy weapon after moving.<br/><br/>
+        <span style="font-weight:bold">Energy scanner</span>: At the start of the Shooting phase, you can choose another <span style="font-weight:bold">Demiurg</span> model with 3" of a friendly model equipped with an energy scanner that is not shaken. That model does not suffer penalties to their hit or injury rolls due to their target being obscured.
         </td>
     </tr>
     <tr>
         <td style="font-weight:bold">SPECIALISTS</td>
         <td colspan="11">
-            <span style="font-weight:bold">Leader</span> (Hearthguard Officer only), <span style="font-weight:bold">Heavy</span> (Hearthguard Gunner only), <span style="font-weight:bold">Combat</span>, <span style="font-weight:bold">Veteran</span>
+            <span style="font-weight:bold">Demolitions</span>, <span style="font-weight:bold">Fortitude</span>,
+            <span style="font-weight:bold">Leadership</span>, <span style="font-weight:bold">Logistics</span>
         </td>
     </tr>
     <tr>
@@ -689,15 +689,15 @@ If a model from your kill team loses a wound and the model with the med-injector
     <tr>
         <td style="font-weight:bold">KEYWORDS</td>
         <td colspan="11" style="font-weight:bold">
-            Brotherhood, Commander, Hearthguard, Infantry
+            Brotherhood, Commander, Engineering Guild, Hearthguard, Infantry
         </td>
     </tr>
 </table>
 
-| TACTIC | |
+| POWER FIELD | |
 | :--- | ---:
-| **Demiurg Engineer Guildmaster Tactic** <br/> U | |
-| | 1&nbsp;CP |
+| **Demiurg Engineer Guildmaster Tactic**<br/>Use this tactic at the start of the battle round if your kill team includes an **Engineer Guildmaster**. That model gains the following aura ability until the end of the battle round:<br/><br/>As long as this model is not shaken, friendly models within 6" of this model (including this model) have a 5+ invulnerable save against shooting attacks. | |
+| | 2&nbsp;CP |
 
 | DEMIURG MODEL | POINTS PER MODEL |
 | :--- | :---: |
@@ -708,7 +708,9 @@ If a model from your kill team loses a wound and the model with the med-injector
 
 | DEMIURG WARGEAR | POINTS PER ITEM |
 | :--- | :---: |
-|  |  |
+| Energy scanner | 0 |
+| Nephostron | 0 |
+| Plasma pistol | 0 |
 
 ## DESIGN NOTES
 
